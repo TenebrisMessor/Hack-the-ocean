@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+
+.principal {
+    text-align: center;
+    border: 5px outset #113837;
+    border-radius: 30px;
+    width: 80%;
+    padding: 30px;
+    margin: 30px;
+    align-self: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 5px 2px 1px #d0fff7;
+}
+
+input{
+    width: 70%;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    background-color: #d0fff7;
+}
+
+button {
+    background-color:  #0972a4;
+    font-size: 25px;
+    border-radius: 10px;
+    border-style: outset;
+    padding: 15px;
+    font-style: bold;
+    box-shadow: 5px 2px 1px #113837;
+    color: white;
+}
+
+#descripción {
+    height: 200px;
+}
